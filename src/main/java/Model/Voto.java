@@ -1,7 +1,5 @@
 package Model;
 
-import java.util.Objects;
-
 public class Voto {
 	
 	private String nome;

@@ -13,15 +13,15 @@ public class TestLibretto {
 		//1
 		System.out.println(lib);
 
-		//2
-		System.out.println("Voti pari a 25");
-		Libretto lib25 = lib.filtraPunti(25);
-		System.out.println(lib25);
-		
-		//3
-		System.out.print("Voto esame Informatica: ");
-		int c = lib.puntiEsame("Informatica");
-		System.out.println(c);
+//		//2
+//		System.out.println("Voti pari a 25");
+//		Libretto lib25 = lib.filtraPunti(25);
+//		System.out.println(lib25);
+//		
+//		//3
+//		System.out.print("Voto esame Informatica: ");
+//		int c = lib.puntiEsame("Informatica");
+//		System.out.println(c);
 		
 		//4
 		
